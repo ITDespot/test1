@@ -20,6 +20,16 @@ This repository includes a practical automation pipeline for your current workfl
   - Google OAuth client credentials for YouTube upload.
 - Curating your local stock media folder.
 
+
+## Not technical? Do this first
+
+If you are not a coder, start with **START_HERE.md** for a simple checklist:
+
+- Install Python + FFmpeg
+- Add your keys once
+- Run a safe dry-run
+- Run upload
+
 ## Quick start
 
 ### 1) Install system dependency
